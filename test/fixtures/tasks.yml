@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  estdhours: MyString
+  dailyquota: MyString
+  estdcomplete: MyString
+  user: 
+
+two:
+  name: MyString
+  estdhours: MyString
+  dailyquota: MyString
+  estdcomplete: MyString
+  user: 

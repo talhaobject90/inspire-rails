@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  estdhours: MyString
+  progress: MyString
+  task: 
+
+two:
+  name: MyString
+  estdhours: MyString
+  progress: MyString
+  task: 
